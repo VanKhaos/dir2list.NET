@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <AssemblyName>dir2list.NET</AssemblyName>
+    <RootNamespace>dir2list.NET</RootNamespace>
+    <ApplicationIcon />
+    <StartupObject>dir2list.NET.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>

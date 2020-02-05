@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dir2list.NET", "dir2list\dir2list.NET.csproj", "{8AAFD650-4E89-4CAD-812E-FE8ADF9E802E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AAFD650-4E89-4CAD-812E-FE8ADF9E802E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AAFD650-4E89-4CAD-812E-FE8ADF9E802E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AAFD650-4E89-4CAD-812E-FE8ADF9E802E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AAFD650-4E89-4CAD-812E-FE8ADF9E802E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {954A16E2-56F1-4399-9BF8-E23A5BFACB9A}
+	EndGlobalSection
+EndGlobal
