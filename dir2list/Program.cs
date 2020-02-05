@@ -70,7 +70,6 @@ namespace dir2list.NET
             {
 
                 sw.WriteLine(fileArray[i]);
-                // Console.WriteLine(fileArray[i]);
             }
         }
         static void CheckExit()
